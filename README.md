@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Raphahf6/raphahf6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Buscando oportunidade para trabalhar com apps mobile em flutter ...
 - 🌱 Estudando Flutter ...
 - 👯 I’m looking to collaborate on ...
