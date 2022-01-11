@@ -2,7 +2,7 @@
 
 - 🔭 Buscando oportunidade para trabalhar com apps mobile em flutter
 - 🌱 Estudando Flutter
-- 📫 contate-me no e-mail: raphael.m.limaa@hotmail.com
+- 📫 contate-me no e-mail: raphaellima6@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
