@@ -1,6 +1,6 @@
 ### Olá eu sou o Raphael Menezes 👋
 
-- 🔭 Buscando oportunidade para trabalhar com apps mobile em flutter
+- 🔭 Buscando oportunidade para trabalhar desenvolvimento web completo
 - 🌱 Estudando Flutter
 - 📫 contate-me no e-mail: raphaellima6@gmail.com
 - 😄 Pronouns: ele/dele
