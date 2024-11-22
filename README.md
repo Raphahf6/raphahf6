@@ -1,9 +1,8 @@
 ### Olá eu sou o Raphael Menezes 👋
 
 - 🔭 Buscando oportunidade para trabalhar desenvolvimento web completo
-- 🌱 Estudando Flutter
+- 🌱 Estudando Desenvolvimento web front e back-end
 - 📫 contate-me no e-mail: raphaellima6@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Raphahf6/">
